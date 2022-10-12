@@ -1,0 +1,14 @@
+@mixin logo-font {
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 45px;
+    font-style: normal;
+    color: $text-primary-color;
+}
+
+@mixin regular-font {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    font-style: normal;
+}
